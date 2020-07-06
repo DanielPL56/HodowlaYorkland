@@ -18,7 +18,17 @@
         <div>
 
             <header>
+
                 <h1 class="logo">Hodowla Yorkland</h1>
+
+                <nav>
+                    <ul class="menu">
+                        <li><a href="#">Strona Główna</a></li>
+                        <li><a href="#">Rasy</a></li>
+                        <li><a href="#">Kontakt</a></li>
+                    </ul>
+                </nav>
+
             </header>
 
 
