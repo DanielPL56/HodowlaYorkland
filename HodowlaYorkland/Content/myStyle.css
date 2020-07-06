@@ -5,3 +5,13 @@
     background-color: #2f3336;
     color: #efefef;
 }
+
+h1.logo{
+    font-size: 44px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
