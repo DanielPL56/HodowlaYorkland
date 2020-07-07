@@ -4,7 +4,7 @@
 
 <html>
 <head runat="server">
-    <title></title>
+    <title>Hodowla Yorkland</title>
 
     <link rel="stylesheet" href="/Content/myStyle.css" />
 
@@ -16,8 +16,17 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <header>
+                <h1 class="logo">Hodowla Yorkland</h1>
+                <nav>
+                    <ul class="menu">
+                        <li><a href="#">Strona Główna</a></li>
+                        <li><a href="#">Rasy</a></li>
+                        <li><a href="#">Kontakt</a></li>
+                    </ul>
+                </nav>
+            </header>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-                
             </asp:ContentPlaceHolder>
         </div>
     </form>
