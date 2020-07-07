@@ -91,3 +91,10 @@ nav {
 .entryImg {
     display: inline-block;
 }
+
+.entryImg img {
+    opacity: 0.85;
+}
+.entryImg img:hover {
+    opacity: 1;
+}
