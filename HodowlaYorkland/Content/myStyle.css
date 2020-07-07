@@ -6,7 +6,7 @@
     color: #efefef;
 }
 
-h1.logo{
+h1.logo {
     font-size: 44px;
     font-weight: 700;
     text-align: center;
@@ -16,12 +16,12 @@ h1.logo{
     margin-bottom: 40px;
 }
 
-nav{
+nav {
     background-color: #1c74b2;
     text-align: center;
 }
 
-.menu{
+.menu {
     margin: 0;
     padding: 10px;
     font-size: 18px;
@@ -29,22 +29,22 @@ nav{
     line-height: 200%;
 }
 
-.menu > li{
+.menu > li {
     display: inline-block;
     padding-left: 20px;
     padding-right: 20px;
     border-right: 1px dashed #0a2b42;
 }
 
-.menu > li:first-child{
+.menu > li:first-child {
     border-left: 1px dashed #0a2b42;
 }
 
-.menu a{
+.menu a {
     color: #fff;
     text-decoration: none;
 }
 
-.menu a:hover{
+.menu a:hover {
     color: #0a2b42;
 }
