@@ -48,3 +48,46 @@ nav {
 .menu a:hover {
     color: #0a2b42;
 }
+
+#news {
+    background-color: #404447; /*#2f3336*/
+}
+
+.entries {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    padding-top: 10px;
+    padding-bottom: 80px;
+    margin-top: 40px;
+}
+
+.entries h1 {
+    font-size: 44px;
+    color: #1c74b2;
+    letter-spacing: 1px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.entry {
+    background-color: #2f3336;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    font-size: 17px;
+}
+
+.entry h2 {
+    color: #1c74b2;
+}
+
+.entryText {
+
+}
+
+.entryImg {
+    display: inline-block;
+}
