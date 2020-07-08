@@ -70,6 +70,10 @@
     <Content Include="Content\myStyle.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Img\Owner.jpg" />
+    <Content Include="Img\Dogs\1.jpg" />
+    <Content Include="Img\Dogs\2.jpg" />
+    <Content Include="Img\Dogs\3.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
