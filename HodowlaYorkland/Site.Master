@@ -22,14 +22,12 @@
                     <ul class="menu">
                         <li><a href="Default.aspx">Strona Główna</a></li>
                         <li><a href="#">Rasy</a></li>
-                        <li><a href="#">Kontakt</a></li>
+                        <li><a href="Contact.aspx">Kontakt</a></li>
                     </ul>
                 </nav>
             </header>
-            <main>
-                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-                </asp:ContentPlaceHolder>
-            </main>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
         </div>
     </form>
 </body>
